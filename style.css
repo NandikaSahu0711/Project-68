@@ -1,0 +1,63 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+img{
+    width:1330px;
+    height: 450px;
+    border-bottom-color: aqua;
+    border-top-color: cadetblue;
+    border-right-color: cyan;
+    border-left-color: darkcyan;
+    margin-left: 10px;
+    margin-right:10px;
+}
+
+#details img {
+    margin-left: 50px;
+    background-color: aliceblue;
+}
+
+#map iframe {
+    width: 50%;
+    float: left;
+    padding-top: 5px;
+}
+
+.h4,
+h4 {
+    font-size: 18px;
+}
+
+.h4,
+.h5,
+.h6,
+h4,
+h5,
+h6 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
